@@ -1,0 +1,7 @@
+C:\Users\uphh6\OneDrive\Desktop\test\H106B143-w2\H106B143-w2\bin\H106B143-w2.dll.config
+C:\Users\uphh6\OneDrive\Desktop\test\H106B143-w2\H106B143-w2\bin\H106B143-w2.dll
+C:\Users\uphh6\OneDrive\Desktop\test\H106B143-w2\H106B143-w2\bin\H106B143-w2.pdb
+C:\Users\uphh6\OneDrive\Desktop\test\H106B143-w2\H106B143-w2\obj\Debug\43-w2.csprojAssemblyReference.cache
+C:\Users\uphh6\OneDrive\Desktop\test\H106B143-w2\H106B143-w2\obj\Debug\43-w2.csproj.CoreCompileInputs.cache
+C:\Users\uphh6\OneDrive\Desktop\test\H106B143-w2\H106B143-w2\obj\Debug\H106B143-w2.dll
+C:\Users\uphh6\OneDrive\Desktop\test\H106B143-w2\H106B143-w2\obj\Debug\H106B143-w2.pdb
