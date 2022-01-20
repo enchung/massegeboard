@@ -8,8 +8,29 @@
 #### 讀者、朋友能以互動方式留下意見。   
 #### 新增刪除網誌內容、訪客留言、刪除回覆留言
 
-#### 預設使用者帳號:
-####          密碼:
+
+
+## 操作
+
+#### **預設使用者帳密:**
+####    帳號:TOM
+####    密碼:123456
          
          
          
+         
+         
+         
+         
+         
+## **新增網誌**
+
+![image](https://github.com/enchung/massegeboard/blob/main/massege%20photo3.jpg)
+
+## **訪客留言**
+
+![image](https://github.com/enchung/massegeboard/blob/main/massege%20photo2.jpg)
+
+![image](https://github.com/enchung/massegeboard/blob/main/massege%20photo.jpg)
+
+![image](https://github.com/enchung/massegeboard/blob/main/massege%20photo1.jpg)
